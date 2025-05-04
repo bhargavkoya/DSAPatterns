@@ -1,0 +1,17 @@
+﻿Sliding Window (Fixed Size)
+📌
+Move a window of fixed length across the array to calculate something.
+🎯
+Why it matters:
+Appears in real-time analytics, streaming, and rate-limiting systems.
+Loved in Microsoft, Amazon, and optimization-focused rounds.
+🔁
+Variants:
+Max sum of k-sized subarray
+Min/avg values
+Windowed product
+🔥
+Examples:
+Leetcode 643  Maximum Average Subarray I
+GFG  Max Sum Subarray of Size K
+Leetcode 1456  Max Number of Vowels in a Substring

@@ -1,0 +1,19 @@
+﻿Hashing for Lookup
+📌
+Use HashMap or HashSet for fast O1 checks.
+🎯
+Why it matters:
+Great for duplicate detection, frequency counts, and complement lookup
+5
+127 Core Patterns by Lavakumar Thatisetti - for 11
+Often used in Google and Amazon first-rounds
+🔁
+Variants:
+2Sum
+Check for duplicates
+Frequency match/anagram check
+🔥
+Examples:
+Leetcode 1  Two Sum
+Leetcode 217  Contains Duplicate
+Leetcode 383  Ransom Note

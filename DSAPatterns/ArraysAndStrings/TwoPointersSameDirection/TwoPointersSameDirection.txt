@@ -1,0 +1,19 @@
+﻿ Two Pointers (Same Direction / Fast-Slow)
+ 📌
+ One pointer moves faster than the other to compare relative positions.
+ 🎯
+ Why it matters:
+ Crucial in cycle detection, finding midpoints, removing duplicates.
+ Appears often in LinkedIn, Meta, and service logic-based interviews.
+ 🔁
+ Variants:
+ Find middle of a list
+ Remove duplicates in-place
+ 3
+ 127 Core Patterns by Lavakumar Thatisetti - for 11
+Detect cycles (linked lists, numbers)
+ 🔥
+ Examples:
+ Leetcode 26  Remove Duplicates from Sorted Array
+ Leetcode 141  Linked List Cycle
+ Leetcode 876  Middle of Linked List

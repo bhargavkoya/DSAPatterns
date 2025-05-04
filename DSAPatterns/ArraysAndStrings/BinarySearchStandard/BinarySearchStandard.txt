@@ -1,0 +1,17 @@
+﻿Binary Search (Standard)
+📌
+Halve the search space in a sorted array to find a target efficiently.
+🎯
+Why it matters:
+Foundational for system design, file systems, and FAANG API efficiency
+Evaluates index management and recursion handling.
+🔁
+Variants:
+First/last position
+Target in rotated array
+Recursive vs iterative
+🔥
+Examples:
+Leetcode 704  Binary Search
+Leetcode 34  Find First and Last Position
+Leetcode 35  Search Insert Position

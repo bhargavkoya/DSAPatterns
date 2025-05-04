@@ -1,0 +1,19 @@
+﻿ Two Pointers (Opposite Direction)
+ 📌
+ Use one pointer from the start and another from the end, converging toward 
+the center.
+ 🎯
+ Why it matters:
+ Solves many O(n) problems that naïvely take O(n²) using brute force.
+ Great for sorted arrays, symmetric comparisons, and pair matching.
+ Used in Amazon and Facebook for string/array logic.
+ 🔁
+ Variants:
+ Palindromes
+ Sum of two numbers
+ Array partitioning
+ 🔥
+ Examples:
+ Leetcode 167  Two Sum II Input array is sorted)
+ Leetcode 125  Valid Palindrome
+ GFG  Array Pair Sum Divisibility

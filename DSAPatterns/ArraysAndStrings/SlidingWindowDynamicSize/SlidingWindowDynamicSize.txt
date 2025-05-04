@@ -1,0 +1,19 @@
+﻿Sliding Window (Dynamic Size)
+📌
+Expand the window until a condition breaks, then shrink from left.
+🎯
+Why it matters:
+Appears in longest substring, bandwidth throttling, compression
+Common in Google  Uber interviews
+🔁
+Variants:
+4
+127 Core Patterns by Lavakumar Thatisetti - for 11
+Longest substring with unique characters
+Min window containing pattern
+Count substrings with at most K distinct characters
+🔥
+Examples:
+Leetcode 3  Longest Substring Without Repeating Characters
+Leetcode 76  Minimum Window Substring
+Leetcode 159  Longest Substring with At Most Two Distinct Characters

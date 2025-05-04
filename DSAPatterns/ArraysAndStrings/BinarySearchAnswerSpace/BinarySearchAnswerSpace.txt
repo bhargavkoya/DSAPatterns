@@ -1,0 +1,17 @@
+﻿Binary Search (Answer Space)
+📌
+Instead of searching in data, search over possible values/answers.
+Why it matters:
+Common in optimization and allocation problems
+Loved by Google, Uber, and Amazon for thinking beyond simple binary 
+search.
+🔁
+Variants:
+Koko Eating Bananas
+Min largest sum in K parts
+Smallest divisor under threshold
+🔥
+Examples:
+Leetcode 410  Split Array Largest Sum
+Leetcode 875  Koko Eating Bananas
+Leetcode 1283  Smallest Divisor Given a Threshold

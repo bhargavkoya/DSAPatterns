@@ -1,0 +1,17 @@
+﻿Prefix Sum / Difference Array
+📌
+Store running totals or range diffs to answer subarray questions in O1.
+🎯
+Why it matters:
+Efficient in queries like: “Whatʼs the sum from index i to j?ˮ
+Used in Meta  Airbnb to optimize brute force solutions.
+🔁
+Variants:
+Subarray sums
+Range sum queries
+Difference arrays for range updates
+🔥
+Examples:
+Leetcode 560  Subarray Sum Equals K
+Leetcode 724  Find Pivot Index
+Leetcode 303  Range Sum Query
