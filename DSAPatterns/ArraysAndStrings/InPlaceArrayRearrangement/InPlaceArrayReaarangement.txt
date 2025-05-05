@@ -1,0 +1,17 @@
+﻿ In-place Array Rearrangement
+ 📌
+ Reorder or mark arrays using indices — without extra space.
+ 🎯
+ Why it matters:
+ Appears in cyclic sort, duplicate finding, missing number
+ Forces candidates to optimize space and reuse input array
+ 🔁
+ Variants:
+ Swap-based positioning
+ Cyclic sort
+ Mark values as visited
+ 🔥
+ Examples:
+ Leetcode 448  Find All Disappeared Numbers
+ Leetcode 287  Find Duplicate Number
+ Leetcode 41  First Missing Positive

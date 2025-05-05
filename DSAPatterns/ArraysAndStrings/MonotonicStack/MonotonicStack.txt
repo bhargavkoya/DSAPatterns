@@ -1,0 +1,18 @@
+﻿Monotonic Stack
+📌
+Stack that maintains increasing or decreasing order to find next/prev elements
+🎯
+Why it matters:
+Efficient O(n) solutions to span, histogram, temperature, and next greater 
+problems
+Interviewers check invariant maintenance + optimization skills
+🔁
+Variants:
+Next greater/smaller
+Span problems
+Histogram max area
+🔥
+Examples:
+Leetcode 739  Daily Temperatures
+Leetcode 84  Largest Rectangle in Histogram
+Leetcode 496  Next Greater Element I

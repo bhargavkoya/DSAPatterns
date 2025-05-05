@@ -1,0 +1,17 @@
+﻿Two Sum Family
+📌
+Find combinations that sum to a target 2Sum, 3Sum, 4Sum).
+🎯
+Why it matters:
+Tests array sorting, pointer logic, and duplicate handling
+Interviewers use it for step-up questions in Facebook, Adobe, Microsoft
+🔁
+Variants:
+Find any valid pair(s)
+All unique combinations
+KSum generalizations
+🔥
+Examples:
+Leetcode 1  Two Sum
+Leetcode 15  3Sum
+Leetcode 18  4Sum

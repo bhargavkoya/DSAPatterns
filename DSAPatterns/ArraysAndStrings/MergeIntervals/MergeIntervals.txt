@@ -1,0 +1,17 @@
+﻿Merge Intervals
+📌
+Sort intervals and merge overlapping ones
+🎯
+Why it matters:
+Used in calendar merging, scheduling, memory allocation
+Evaluates sorting, merging, and iteration control
+🔁
+Variants:
+Insert/merge interval
+Count overlaps
+Remove overlaps
+🔥
+Examples:
+Leetcode 56  Merge Intervals
+Leetcode 57  Insert Interval
+Leetcode 435  Non-overlapping Intervals
