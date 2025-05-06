@@ -1,0 +1,17 @@
+﻿Kadaneʼs Algorithm (Max Subarray Sum)
+📌
+Track current max, reset when negative to find best subarray
+🎯
+Why it matters:
+Classic DP-based array problem
+Asked repeatedly in Google, Apple, Amazon
+🔁
+Variants:
+Max subarray 1D, circular)
+Include/exclude one element
+Max average
+
+Examples:
+Leetcode 53  Maximum Subarray
+Leetcode 918  Maximum Sum Circular Subarray
+Leetcode 1191  KConcatenation Maximum Sum

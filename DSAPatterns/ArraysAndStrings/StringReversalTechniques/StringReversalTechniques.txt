@@ -1,0 +1,17 @@
+﻿String Reversal Techniques
+📌
+Reverse full or partial strings using pointer techniques
+🎯
+Why it matters:
+Appears in encoding, decoding, reversing word order, rotation
+Interviewers check in-place manipulation and loop control
+🔁
+Variants:
+Reverse full string
+Reverse words in sentence
+Rotate string
+🔥
+Examples:
+Leetcode 344  Reverse String
+Leetcode 151  Reverse Words in a String
+Leetcode 186  Reverse Words in a String II

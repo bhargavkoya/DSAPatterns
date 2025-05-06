@@ -1,0 +1,17 @@
+﻿Anagram Grouping
+📌
+Normalize words (sort or frequency) to group anagrams
+🎯
+Why it matters:
+Appears in search engines, spell checkers, natural language tools
+Great for testing string maps and grouping logic
+🔁
+Variants:
+Group all anagrams
+Check if two words are anagrams
+Count total anagram groups
+🔥
+Examples:
+Leetcode 49  Group Anagrams
+Leetcode 242  Valid Anagram
+GFG  Print All Anagram Groups Together

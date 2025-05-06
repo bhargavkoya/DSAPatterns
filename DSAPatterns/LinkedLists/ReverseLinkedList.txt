@@ -1,0 +1,17 @@
+﻿Reverse Linked List
+📌
+Reverse the links in a singly linked list (iterative or recursive).
+🎯
+Why it matters:
+Appears in almost every LinkedIn, Meta, Amazon round as a base concept.
+Core to many composite problems (e.g., palindrome checks, group reversals).
+🔁
+Variants:
+Full reverse
+Reverse sublist (between m and n)
+Reverse every k nodes
+🔥
+Examples:
+Leetcode 206  Reverse Linked List
+Leetcode 92  Reverse Linked List II
+Leetcode 25  Reverse Nodes in k-Group
